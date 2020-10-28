@@ -56,3 +56,45 @@ The standard deviation is a measure of volatility in the portfolio. Higher the s
 ### What is the ideal Sharpe ratio
 
 A ratio of 1 is decent, ratio of 2 is better than average and ratio of 3 is excellent and you'll likely outperform the market.
+
+## Bonus
+
+We'll calculate the Alpha and Beta values for our portfolio.
+
+Alpha and beta are two of the key measurements used to evaluate the performance of a stock, a fund, or an investment portfolio.
+
+Alpha measures the amount that the investment has returned in comparison to the market index or other broad benchmark that it is compared against.
+
+Beta measures the volatility of an investment. It is an indication of its relative risk. They both are historical measures.
+
+<p align="center">
+  <img src=./Assets/alpha.png>
+</p>
+
+
+Takeaways :
+
+* Alpha shows how well (or badly) a stock has performed in comparison to a benchmark index.
+
+* Beta indicates how volatile a stock's price has been in comparison to the market as a whole.
+
+* A high alpha is always good.
+
+* A high beta may be preferred by an investor in growth stocks but shunned by investors who seek steady returns and lower risk.
+
+
+An alpha of 1.0 means the investment outperformed its benchmark index by 1%. An alpha of -1.0 means the investment underperformed its benchmark index by 1%. If the alpha is zero, its return matched the benchmark.
+
+If a stock's beta is 1.5, it is considered to be 50% more volatile than the overall market.
+
+### What is the perfect alpha and beta value for me?
+
+The ideal alpha and beta value has a lot to do with your attitude and age. If you're a conservative investor you might want to avoid stocks with high beta value
+
+On the other hand if you have a risk taking personality and have the courage to deal with volatility you can choose stocks with high beta values since they have a fast growth potential.
+
+### What does it have to do with my age?
+
+If you're young then you can afford to take the risk of a high beta stock and even if you blow a lot of money you would have time to regain it back.
+
+If you're old and if you've invested most of your savings then it could be risky to invest in volatile stocks. You don't want your retirement savings taken away from you in a flash.

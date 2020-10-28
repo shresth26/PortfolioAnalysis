@@ -72,7 +72,7 @@ Beta measures the volatility of an investment. It is an indication of its relati
 </p>
 
 
-Takeaways :
+#### Takeaways :
 
 * Alpha shows how well (or badly) a stock has performed in comparison to a benchmark index.
 
@@ -98,3 +98,6 @@ On the other hand if you have a risk taking personality and have the courage to 
 If you're young then you can afford to take the risk of a high beta stock and even if you blow a lot of money you would have time to regain it back.
 
 If you're old and if you've invested most of your savings then it could be risky to invest in volatile stocks. You don't want your retirement savings taken away from you in a flash.
+
+
+**Disclaimer** : A lot of definitions were taken from <a href='https://www.investopedia.com/'> Investopedia.com</a>
